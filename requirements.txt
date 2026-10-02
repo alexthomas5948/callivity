@@ -1,0 +1,11 @@
+# Callivity Voice AI SaaS Backend Dependencies
+livekit-agents>=1.0.0
+livekit-plugins-sarvam>=0.2.0
+livekit-plugins-openai>=0.10.0
+livekit-api>=0.8.0
+livekit>=0.19.0
+python-dotenv>=1.0.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+supabase>=2.4.0
+pydantic>=2.6.0

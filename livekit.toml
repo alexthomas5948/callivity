@@ -1,0 +1,7 @@
+# LiveKit Cloud Agent Deployment Configuration for Callivity
+[agent]
+name = "callivity-voice-agent"
+entrypoint = "python agent.py start"
+
+[build]
+python_version = "3.11"
